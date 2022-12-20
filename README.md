@@ -1,5 +1,4 @@
-# ReactJs-Portfolio-website
-Getting Started with Create React App
+# Getting Started with Create React App
 This project was Tailwind css with $ npm create vite@latest
 
 
