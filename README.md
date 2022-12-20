@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create vite@latest
 This project was Tailwind css with $ npm create vite@latest
 
 
